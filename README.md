@@ -4,7 +4,8 @@ This is a solution to the [Project tracking intro component challenge on Fronten
 
 ## Screenshots
 
-<img src="design/screen1" width="100px" alt="homepagina van de Haikyuuu website">
+<img src="images/screen1.png" width="200px" alt="#"> <img src="images/screen3.png" width="200px" alt="#">
+<img src="images/screen2.png" width="400px" alt="#">
 
 
 
